@@ -1,0 +1,11 @@
+rule-based-faq-chatbot/
+│
+├── src/
+│   └── faq_bot.py
+│
+├── docs/
+│   └── statement.md
+│
+├── README.md
+├── .gitignore
+└── LICENSE
