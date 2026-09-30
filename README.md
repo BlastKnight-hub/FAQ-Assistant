@@ -55,7 +55,7 @@ python --version
 ```
 How to Run
 Clone the repository
-https://github.com/abhraneel26boe10024-design/Abhraneel-Ghosh-VITYarthi-Project
+https://github.com/BlastKnight-hub/VITyarthi.git
 Open the project folder
 cd Healthcare-Awareness-Campaign
 Run the Python program
