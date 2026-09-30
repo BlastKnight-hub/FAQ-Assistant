@@ -57,7 +57,7 @@ How to Run
 Clone the repository
 https://github.com/BlastKnight-hub/VITyarthi.git
 Open the project folder
-cd Healthcare-Awareness-Campaign
+cd FAQ-assistant-bot
 Run the Python program
 Run main.py
 
