@@ -1,0 +1,61 @@
+# Project Statement
+
+## Project Title
+
+**Rule-Based FAQ Chatbot**
+
+## Introduction
+
+Frequently asked questions are common in educational institutions, organizations, websites, businesses, and help desks. Users often need quick answers to simple questions, but searching through documents or contacting support for every query can be inconvenient.
+
+The **Rule-Based FAQ Chatbot** is a simple Python program designed to provide predefined answers to frequently asked questions. The chatbot uses keyword matching to identify the topic of a user's question and displays the corresponding response.
+
+The project is intentionally built without artificial intelligence or machine learning. It demonstrates how a basic rule-based system can be created using fundamental Python programming concepts.
+
+## Problem Statement
+
+Users may have common questions about topics such as fees, admission, library services, accommodation, transport, registration, examinations, attendance, timings, or support.
+
+The objective of this project is to create a simple command-line chatbot that can identify common keywords in a user's question and provide a relevant predefined response.
+
+## Objectives
+
+The main objectives of the project are:
+
+1. To develop a simple FAQ chatbot using Python.
+2. To implement keyword-based question matching.
+3. To provide predefined responses to common questions.
+4. To make the FAQ system easy to modify and customize.
+5. To create a reusable chatbot that can be adapted to different organizations or applications.
+
+## Methodology
+
+The chatbot follows a simple rule-based approach.
+
+## Technologies Used
+
+- Python 3
+- Command Line Interface (CLI)
+- List of tuples
+
+
+## Expected Outcome
+
+The expected outcome is a working command-line FAQ chatbot that can:
+
+1. Accept questions from users.
+2. Identify predefined keywords.
+3. Match questions with FAQ categories.
+4. Display the appropriate predefined response.
+5. Handle questions that do not match any available FAQ.
+6. Continue accepting questions until the user enters `exit`.
+
+
+## Conclusion
+
+The **Rule-Based FAQ Chatbot** is a simple Python project that provides predefined answers to frequently asked questions through keyword matching.
+
+The project does not depend on artificial intelligence, machine learning, APIs, or external libraries. Instead, it focuses on fundamental programming concepts and provides a simple foundation that can be customized for different types of FAQ and support systems.
+
+It can also serve as a starting point for developing more advanced chatbot applications in the future.
+
